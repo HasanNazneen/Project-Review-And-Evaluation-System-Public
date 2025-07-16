@@ -28,32 +28,10 @@ python run.py
 http://127.0.0.1:5000
 
 #Features
-|-------------------------|----------------------------------------------------|
-|Category                 | Description                                        |
-|-------------------------|----------------------------------------------------|
-| Student Portal          | Login And Registration                             |
-|                         | Upload Documents to Guide, HOD                     |
-|                         | Receive Feedback and submit the final project      |
-|                         | details to HOD if approved.                        |
-|Guide Portal             | Login and Registration                             |
-|                         | Receive Documents from Student.                    |
-|                         | Give feedback and either approve or reject.        |
-|                         | Check project status.                              |
-|Head of the Department   | Login and registration                             |
-(HOD) Portal              | Receive apporved projects from students.           |
-|                         | Give feedback and either approve or reject.        |
-|                         | Check project status.                              |
-|                         | Approved project will make it to the final List    |
-|-------------------------|----------------------------------------------------|
 
-
-
-
-
-
-
-
-
+Student Portal - Login And Registration, Upload Documents to Guide, HOD, Receive Feedback and submit the final project details to HOD if approved.
+Guide Portal - Login and Registration, Receive Documents from Student, Give feedback and either approve or reject, Check project status. |
+Head of the Department -Login and registration, Receive approved projects from students, Give feedback and either approve or reject, Check project status, Approved project will make it to the final List.
 
 
 #Tech Stack
