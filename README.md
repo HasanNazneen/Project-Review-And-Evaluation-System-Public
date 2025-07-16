@@ -12,7 +12,7 @@ A web-based system designed to streamline the process of submitting, reviewing, 
 
 #Steps to run:
 1.Clone the Repository
-git clone https://github.com/your-username/project-review-system.git
+git clone https://github.com/HasanNazneen/Project-Review-And-Evaluation-System-Public.git
 
 2.Set Up Virtual Environment
 python -m venv venv
